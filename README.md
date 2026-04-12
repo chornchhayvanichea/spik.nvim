@@ -8,7 +8,7 @@ A fast and simple file picker for Neovim.
 
 ## Usage
 
-`:SP` to open the picker.
+`:Spik` to open the picker.
 
 ## Keymaps
 
